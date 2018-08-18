@@ -1,7 +1,7 @@
 Non-Linear Regression
 ================
 
-[Solving Non-Linear Problems with R](https://github.com/MNoorFawi/nonlinear-regression)
+[Solving NonLinear Problems with R](https://github.com/MNoorFawi/nonlinear-regression)
 ----------------------------------
 
 linear regression is such a great method to predict a variable measurement based on other variables. but not always the relationship between the variables in hand are linear. sometimes the relationship is nonlinear so linear methods won't be the perfect solution. in these problems shine other algorithms such as the ones we're going to talk about here; **Generalized Additive Models (GAM)** and **Support Vector Regression (SVR)**
